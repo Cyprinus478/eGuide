@@ -4,23 +4,23 @@ to digitize information from pre-existing physical field guides,however from tha
 species will be added from other literature.
 
 ## Current goals
-[ ] Begin development for app
+### [ ] Begin development for app
     [✓] Start GitHub repository
     [ ] Create UI/UX
     [ ] Code interfaces
     [ ] Develop online library for field guides
     [ ] ... to be added
 
-[ ] Digitize field guides
+### [ ] Digitize field guides
     [ ] Wildflowers of the Smokies
     [ ] ... to be added
 
-[ ] Create website and online presence
+### [ ] Create website and online presence
     [ ] Develop website for project
     [ ] Create social media accounts for project
     [ ] ... to be added
 
-[ ] Launch app
+### [ ] Launch app
     [ ] Launch on PlayStore
     [ ] Launch APK on website
     [ ] ... to be added
