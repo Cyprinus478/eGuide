@@ -1,6 +1,6 @@
 #  eGuide
 eGuide is a new project to create a digital field guide on your phone. Currently the goal is
-to digitize information from pre-existing physical field guides,however from that framework
+to digitize information from pre-existing physical field guides, however from that framework
 species will be added from other literature.
 
 ## Current goals
