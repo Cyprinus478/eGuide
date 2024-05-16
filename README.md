@@ -1,7 +1,5 @@
 #  eGuide
-eGuide is a new project to create a digital field guide on your phone. Currently the goal is
-to digitize information from pre-existing physical field guides, however from that framework
-species will be added from other literature.
+eGuide is a new project to create a digital field guide on your phone. Currently the goal is to start compiling species on the East Coast of the U.S. but from there expand to the rest of the U.S. and maybe some international species too!
 
 ## Current goals
 ### [ ] Begin development for app
@@ -11,8 +9,13 @@ species will be added from other literature.
     [ ] Develop online library for field guides
     [ ] ... to be added
 
-### [ ] Digitize field guides
-    [ ] Wildflowers of the Smokies
+### [ ] Add species
+    [ ] Wildflowers
+    [ ] Insects
+    [ ] Trees
+    [ ] Mushrooms
+    [ ] Mammals
+    [ ] Birds
     [ ] ... to be added
 
 ### [ ] Create website and online presence
